@@ -14,27 +14,4 @@
   </p>
 
 # Kiwi Browser
-
-Important note: Kiwi Browser is now archived. It will no longer be maintained after January 2025.
-
-The extensions code for Kiwi Browser has now been integrated into [Microsoft Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary).
-
-To install extensions on Microsoft Edge Canary:
-
-1. Open **Microsoft Edge Canary** and go to **Settings > About Microsoft Edge**.  
-2. Tap the **Edge build number** (e.g., `xx.0.2487.0`) 5 times to enable **Developer Options**.  
-3. In Developer Options, select **Extension install by id**.  
-
-To find the extension ID:  
-- Open the [Microsoft Edge Web Store](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).  
-- Locate and select the desired extension.  
-- Copy the ID from the URL (e.g., for Bitwarden, the ID is `jbkfoedolllekgbhcbcoahefnbanhhlh` from the URL ending).  
-
-4. Paste the extension ID into the **Extension install by id** field.  
-5. The extension will install.  
-
-If you really need Kiwi Browser, you can download the [latest published version of Kiwi Browser here](https://github.com/kiwibrowser/src.next/releases/tag/12867802748). Do not download Kiwi Browser from any other sources.
-
-While your Kiwi Browser installation will still work for some time, it’s essential to explore alternatives like [Microsoft Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary), [Vivaldi Browser](https://play.google.com/store/apps/details?id=com.vivaldi.browser) or [Mozilla Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) to stay secure and up-to-date.
-
--- Arnaud.
+Your beloved browser is back, but with a new team.
